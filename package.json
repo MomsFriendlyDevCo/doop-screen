@@ -1,5 +1,5 @@
 {
-  "name": "@doop/service-screen",
+  "name": "@doop/screen",
   "version": "1.0.0",
   "description": "A screen service for the Doop framework",
   "repository": {
