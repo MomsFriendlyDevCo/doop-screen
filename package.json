@@ -14,5 +14,8 @@
   "bugs": {
     "url": "https://github.com/MomsFriendlyDevCo/doop-service-screen/issues"
   },
-  "homepage": "https://github.com/MomsFriendlyDevCo/doop-service-screen#readme"
+  "homepage": "https://github.com/MomsFriendlyDevCo/doop-service-screen#readme",
+  "workspaces": [
+    "../*"
+  ]
 }
