@@ -4,7 +4,7 @@
   "description": "A screen service for the Doop framework",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MomsFriendlyDevCo/doop-service-screen.git"
+    "url": "git+https://github.com/MomsFriendlyDevCo/doop-screen.git"
   },
   "keywords": [
     "doop"
@@ -12,10 +12,7 @@
   "author": "Matt Carter <m@ttcarter.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/MomsFriendlyDevCo/doop-service-screen/issues"
+    "url": "https://github.com/MomsFriendlyDevCo/doop-screen/issues"
   },
-  "homepage": "https://github.com/MomsFriendlyDevCo/doop-service-screen#readme",
-  "workspaces": [
-    "../*"
-  ]
+  "homepage": "https://github.com/MomsFriendlyDevCo/doop-screen#readme"
 }
